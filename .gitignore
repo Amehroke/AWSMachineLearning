@@ -1,0 +1,59 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python virtual environment
+venv/
+env/
+*.env
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs
+*.log
+
+# Data files
+data/
+
+# Model files
+models/
+
+# Temporary files
+*.tmp
+
+# Miscellaneous
+.DS_Store
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environment
+venv/
+env/
+*.env
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs
+*.log
+
+# Data files
+data/
+
+# Model files
+models/
+
+# Temporary files
+*.tmp
+
+# Miscellaneous
+.DS_Store
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+.nbgrader.log
+.nbgrader.db
